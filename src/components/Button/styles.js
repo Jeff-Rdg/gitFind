@@ -1,0 +1,11 @@
+import styled from "styled-components";
+
+export const ButtonContainer = styled.button`
+  border: 1px solid #999999;
+  border-radius: 22px;
+  margin-right: 12px;
+  background: #2d333b;
+  color: #ffffff;
+  font-size: 18px;
+  padding: 10px;
+`;
